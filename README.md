@@ -1,4 +1,4 @@
-# @@#4e8767 Kayla Tozier
+# Kayla Tozier
 ## Lamont-Doherty Earth Observatory at Columbia University
 ### Coral Reef Paleoclimatology Ph.D. Student
 ![coral reef photo](https://images.prismic.io/greenly/4fa0f328-fdb8-41f5-bc63-1986ba514112_thumbnail.jpg?auto=compress,format)
