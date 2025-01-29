@@ -8,7 +8,8 @@
 
 ![coral reef photo](https://images.prismic.io/greenly/4fa0f328-fdb8-41f5-bc63-1986ba514112_thumbnail.jpg?auto=compress,format)
 
-_Link to my labgroup: [Braddock K. Linsley Stable Isotope Laboratory](https://www.ldeo.columbia.edu/~blinsley/Dr._B._K_Linsley/Brad_Linsley_HOME.html)
+_Link to my labgroup: [Braddock K. Linsley Stable Isotope Laboratory](https://www.ldeo.columbia.edu/~blinsley/Dr._B._K_Linsley/Brad_Linsley_HOME.html)_
+
 As a Ph.D. student specializing in paleoceanography and paleoclimatology at Lamont-Doherty Earth Observatory at Columbia University, I am deeply invested in exploring the dynamic relationships between climate and ocean systems in the past to better constrain how anthropogenic climate change has impacted these relationships and which feedbacks are most crucial to address. I use stable isotope geochemistry, mostly on coral fossils, to create time-series of biogeochemical changes in the ocean and climate through time.
 
 In my research, I am also incredibly committed to published accessible and inclusive work. As an educator, I strive to teach a range of learning styles and be a safe and transparent mentor to all.  
