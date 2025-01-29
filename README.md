@@ -1,5 +1,5 @@
 # **Kayla Tozier**
-! [profile photo] (https://media.licdn.com/dms/image/v2/D4E03AQH7XaItTxvTYg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730142423408?e=2147483647&v=beta&t=vJNnEcPEtuThBtXWWBdW4qC2KNzcl1LKvxFe7E7nUm8)
+![profile photo](https://media.licdn.com/dms/image/v2/D4E03AQH7XaItTxvTYg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730142423408?e=2147483647&v=beta&t=vJNnEcPEtuThBtXWWBdW4qC2KNzcl1LKvxFe7E7nUm8)
 
 ## Lamont-Doherty Earth Observatory at Columbia University
 ### _Paleoceanography and Paleoclimatology Ph.D. Student_
