@@ -1,7 +1,10 @@
 # **Kayla Tozier**
+![profile photo](https://media.licdn.com/dms/image/v2/D4E03AQH7XaItTxvTYg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730142423408?e=2147483647&v=beta&t=vJNnEcPEtuThBtXWWBdW4qC2KNzcl1LKvxFe7E7nUm8)
+
 ## Lamont-Doherty Earth Observatory at Columbia University
-### _Coral Reef Paleoclimatology Ph.D. Student_
-#### ktozier@ldeo.columbia.edu
+### _Paleoceanography and Paleoclimatology Ph.D. Student_
+#### Contact me: ktozier@ldeo.columbia.edu
+> "The past is the key to the future"
 
 ![coral reef photo](https://images.prismic.io/greenly/4fa0f328-fdb8-41f5-bc63-1986ba514112_thumbnail.jpg?auto=compress,format)
 
@@ -11,14 +14,11 @@ As a Ph.D. student specializing in paleoceanography and paleoclimatology at Lamo
 
 In my research, I am also incredibly committed to published accessible and inclusive work. As an educator, I strive to teach a range of learning styles and be a safe and transparent mentor to all.  
 
-> "The past is the key to the future"
-
 ## **Education**
 
 * ### Ph.D. Earth and Environmental Sciences
 #### _Columbia University, New York, NY_
 ##### _Sept. 2024 - Present_
-
 
 * ### M.S. Oceanography
 #### _University of New Hampshire_ 
@@ -28,7 +28,7 @@ In my research, I am also incredibly committed to published accessible and inclu
 #### _University of New Hampshire_      
 ##### _Dec. 2019 - Dec. 2022_
  
-## **Volunteerwork**
+## **Volunteer Work**
 
 * ### Letters to a Pre-Scientist
 #### Engaged students from low-income schools through hand-written letters demystifying STEM fields.   
